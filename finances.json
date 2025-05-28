@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "created_at": "28/05/2025, 15:57:21",
+    "title": "GTA 6",
+    "type": "EXPENSE",
+    "category": "ENTERTAINMENT",
+    "value": 49990
+  },
+  {
+    "id": 2,
+    "created_at": "28/05/2025, 15:57:50",
+    "title": "SALARY",
+    "type": "INCOME",
+    "category": "SALARY",
+    "value": 1000000
+  }
+]
